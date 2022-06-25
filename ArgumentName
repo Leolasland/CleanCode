@@ -1,0 +1,24 @@
+1. res - residual 
+// результат вычитания
+2. arrInts1 - arrayOfMinuend
+// массив уменьшаемых
+3. arrInts2 - arrayOfSubtrahends
+// массив вычитаемых
+4. arrWords - manyWords
+// множество слов
+5. srvName - serverName
+// имя сервера
+6. checkArray - arrayOfStringsToCheck
+// проверяемый массив строк
+7. subs - substring
+// подстрока
+8. s - string
+// строка 
+9. conf - config
+// конфигурация
+10. len - stringLength
+// длина строки
+11. i1 - term
+// слагаемое
+12. tabelNum - staffNumber
+// табельный номер 
