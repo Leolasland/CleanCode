@@ -1,0 +1,21 @@
+6.1
+sums - sumsOfRealEstateObject
+quans - quantityOfRealEstateObject
+quan - distributedQuantity
+status - statusOfInvoice
+number - numberOfInvoiceSet
+6.2
+clientSocket
+insetrionSortValues
+fileCheckSum
+transportPassword
+6.3
+invoiceSetType
+fileUploadStatus
+plannedPrepaymentDate
+6.4
+sumsOfRealEstateObject - sumsOfRealEstate
+quantityOfRealEstateObject - quantityOfRealEstate
+inn - textPayerNumber
+name - counterparty
+typAv - setPaymentType
