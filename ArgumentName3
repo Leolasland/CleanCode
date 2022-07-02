@@ -1,0 +1,17 @@
+7.1
+swaped - isSwapped
+ascending - isAscending
+findMax - needToFindMax
+toLeft - willBeAddedToLeft
+hit - isVisited
+7.2
+done // удалось ли добавить значение
+numberFound // удалось ли найти необходимую цифру в строке
+7.3
+v - currentValue
+7.4
+head/tail
+locked/unlocked
+7.5
+temp - valueToSwap
+r - allNodesList
