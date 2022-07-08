@@ -1,0 +1,14 @@
+3.1. 
+DynArray - DynamicArray
+LinkedList2 - DoublyLinkedList
+Druid - Unit
+User - Customer
+Buy - Seller
+3.2. 
+stoneSkin - castStoneSkin
+get - getCurrentUnit
+delete - removeUnit
+put - addUnit
+addTail - addInTail
+exit - existingInvoices
+count - size
