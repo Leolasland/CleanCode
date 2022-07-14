@@ -1,0 +1,8 @@
+3.1
+HashTable hashTable = HashTable.OfClassAndSize(Integer, 24)
+BloomFilter bloomFilter = BloomFilter.MaxLength(32)
+BoundedStack boundedStack = BoundedStack.MaxCapacity(32)
+3.2
+InvoiceSetController
+InvoiceSetService
+ArrayFactory
