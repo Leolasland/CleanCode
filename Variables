@@ -1,0 +1,42 @@
+Node node = this.head;
+int countSize = 0;
+while (node != null) {
+  countSize++;
+  node = node.next;
+}
+// изменено инициализация переменной и её имя
+
+final Integer STEP = stp;
+// переменная заменена константой
+
+final Integer SIZE = sz;
+// переменная заменена константой
+
+final Integer MIN_CAPACITY = 16;
+makeArray(MIN_CAPACITY);
+// переменная заменена константой
+
+final Integer SIZE_OF_STEP = 3;
+// переменная заменена константой
+
+
+Long longToBeChanged = Long.valueOf(stringToBeChanged);
+Long longToResult = Long.valueOf(stringToResult);
+String returnBigMinus = null;
+if (longToBeChanged.equals(longToResult)) {
+  returnBigMinus = "0";
+}
+// изменены имена переменных и порядок инициализации
+
+
+int max = findMax(N, Votes);
+int sum = findSum(N, Votes);
+if (isUnique(Votes, max) == max) {
+  return "no winner";
+}
+double percent = max * 100.0 / sum;
+String resultOfVotes = null;
+if (percent > 50.00) {
+  resultOfVotes = "majority winner ";
+}
+// изменены имена переменных и порядок инициализации
