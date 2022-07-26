@@ -1,0 +1,19 @@
+class Unit {
+  private String name;
+  private int attack;
+  ...
+  public String getName() {
+    return this.name;
+  }
+}
+// все поля сделаны приватными
+
+for (int i = 0; i < (N - 1); i++) {
+  if (startImpulse[i] > startImpulse[i + 1]) {
+    x = startImpulse[i];
+    startImpulse[i] = startImpulse[i + 1];
+    startImpulse[i + 1] = x;
+    change = true;
+  }
+}
+// вынесено в отдельный метод
