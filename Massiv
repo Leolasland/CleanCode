@@ -1,0 +1,13 @@
+Sting [] photos;
+List<String> photoList = new ArrayList<>();
+// массив фотографий заменен на безопасную структуру данных
+
+Sting [] cities;
+List<String> cityList = new ArrayList<>();
+// массив городов заменен на безопасную структуру данных
+
+Sting [] coachNames;
+List<String> coachNameList = new ArrayList<>();
+// массив имен тренеров заменен на безопасную структуру данных
+
+// в нескольких разных DTO была одна и та же ошибка.
